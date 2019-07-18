@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,700&display=swap');
+
+html {
+    /* Colors */
+    --primary: hsl(322, 100%, 66%);
+    --darkCyan: hsl(192, 100%, 9%);
+    --grayBlue: hsl(208, 11%, 55%);
+    --headingFont: "Poppins", sans-serif;
+    --bodyFont: "Open Sans", sans-serif;
+    --desktopMaxWidth: 1440;
+    --mobileMaxWidth: 375;
+}
+
+
+
+.container {
+    width: 75vw;
+    margin: 0 auto;
+}
